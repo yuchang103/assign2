@@ -31,7 +31,7 @@ void setup(){
   y3=floor(random(20,400));
   x2=floor(random(3,300));
   y2=floor(random(3,277));
-  hp=floor(random(1,200));
+  hp=40;
   aImg=loadImage("img/fighter.png");
   bImg=loadImage("img/treasure.png");
   cImg=loadImage("img/enemy.png");
